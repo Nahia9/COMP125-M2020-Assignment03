@@ -3,11 +3,17 @@
     [
         {
             "id": "About me",
-            "introduction": "My name is Nahia Akter and I'm from Bangladesh.Currently,enrolled as a second semester student of Software Engineering Technnology at Centennial College. This is a new sector for me and there are so many things to learn. Learning computer language is hard but it isalso interesting. When I get success in coding a program and understand how its works, I become so happy.",
+            "introduction": "My name is Nahia Akter and I'm from Bangladesh.Currently,enrolled as a second semester student of Software Engineering Technnology at Centennial College. This is a new sector for me and there are so many things to learn. Learning computer language is hard but it is also interesting. When I get success in coding a program and understand how its works, I become so happy.",
             "missionid": "Mission Statement",
             "missionStatement": "To be a good human being always and as well as a good software Engineer",
-            "hobbiesid": "Favourite Things To do",
-            "hobbies": "<li>Travelling</li>     <li>Reading</li>    <li>Cooking</li>"
+            "hobbiesid": "Favourite Things To do"
+        },
+
+        {
+            "project1":"My first project was developing a website for a real state agent.Realtor's website is literally their face on the world wide web. So it needs to be attractive.There was the information about the houses for sale including their details pictures and price.",
+            "project2": "I worked on pandas in a team. pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.this semester I'm going to learn more about Python.",
+            "project3" : "Currently I'm working on SRS documentation in Software Engineering Metholody. A software requirements specification is the basis for the entire project. It used to provide critical information to multiple teams:development, quality assurance, operations, and maintenance."
+
         }
         
         
